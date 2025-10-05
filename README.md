@@ -62,6 +62,7 @@ You need to be able to find Code, the following lists ways you can find code sni
 - [Git and GitHub](https://www.youtube.com/watch?v=rH3zE7VlIMs&t=428s&pp=ygUMZ2l0IHByaW1hZ2Vu)
 - [SQL](https://www.youtube.com/watch?v=byHcYRpMgI4)
 - [Optuna](https://www.youtube.com/watch?v=5nYqK-HaoKY&t=2923s): DS29
+- [Optuna](https://www.youtube.com/watch?v=QejQVLkkgRA&pp=ygUOb3B0dW5hIHByb2JhYmw%3D): DS29
 - [TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk&pp=ygURdGVuc29yZmxvdyBjb3Vyc2U%3D)
 - [Keras](https://www.youtube.com/watch?v=qFJeN9V1ZsI&pp=ygUMa2VyYXMgY291cnNl)
 - [PyTorch](https://www.youtube.com/watch?v=V_xro1bcAuA&pp=ygUOcHl0b3JjaCBjb3Vyc2U%3D)
