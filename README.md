@@ -26,8 +26,10 @@ The following are specializations within data science:
 - Stanford CS224N Natural Language Processing with Deep Learning by Christopher Manning (Stanford) (Available on YouTube)
 - Stanford Computer Vision by Fei-Fie Li et. al (Stanford) (Available on YouTube)
 
-NOTE: you need to master machine learning, deep learning and natural language processing before you can use the generative AI roadmap, it is advanced
-- [GenAI Roadmap](https://a-tabaza.github.io/genai_interview_questions/)
+> [!CAUTION]
+> You need to master machine learning, deep learning and natural language processing before you can use the Generative AI roadmap, it is advanced
+
+- [Generative AI Roadmap](https://a-tabaza.github.io/genai_interview_questions/)
 
 ### Textbooks
 
