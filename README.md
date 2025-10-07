@@ -74,7 +74,7 @@ If you finish these, master them, you'll be the best in your field.
 
 ## Additional Very Advanced Topics
 
-Topics Covered: Data Science, Deep Learning, Generative AI, Computer Vision, NLP, IR, ML, RL, Optimization, Statistics, Mathematics, Software Engineering, Systems, Security, and Startups.
+Topics Covered: Data Science, Deep Learning, Generative AI, Computer Vision, Natural Language Processing, Information Retrieval, Machine Learning, Reinforcement Learning, Optimization, Statistics, Mathematics, Software Engineering, Systems, Security, and Startups.
 
 [My Personal Learning Roadmap](https://github.com/a-tabaza/lectures_books_references)
 
